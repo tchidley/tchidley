@@ -1,4 +1,4 @@
-## Hi there 👋
+## Tristan Chidley
 
 <!--
 **tchidley/tchidley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
