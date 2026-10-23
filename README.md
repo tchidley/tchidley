@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 🐍 My GitHub Contribution Snake
+
+![Purple GitHub Snake](https://raw.githubusercontent.com/tchidley/tchidley/output/github-snake.svg)
