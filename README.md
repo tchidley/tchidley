@@ -27,8 +27,6 @@
 
 
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
-
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="75" height="75" alt="Python" />
