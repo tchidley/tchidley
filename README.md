@@ -36,9 +36,8 @@ More projects coming soon!
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tchidley&show_icons=true&theme=tokyonight)
 
-
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tchidley&theme=github_dark)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tchidley&theme=github_dark)
 
