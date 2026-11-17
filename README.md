@@ -26,56 +26,41 @@
 ## 🛠️ Technologies & Tools
 
 
-
-
+```html
 <h2 align="left">🛠️ Technologies & Tools</h2>
 
 <table>
   <tr>
-    <td>
-      <a href="https://www.python.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="75" alt="Python">
-      </a>
+    <td align="center" width="100" height="100" style="border: 1px solid #30363d;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" alt="Python">
     </td>
-    <td>
-      <a href="https://numpy.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="75" alt="NumPy">
-      </a>
+    <td align="center" width="100" height="100" style="border: 1px solid #30363d;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="55" alt="NumPy">
     </td>
-    <td>
-      <a href="https://github.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="75" alt="GitHub">
-      </a>
+    <td align="center" width="100" height="100" style="border: 1px solid #30363d;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" alt="GitHub">
     </td>
-    <td>
-      <a href="https://code.visualstudio.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="75" alt="Visual Studio Code">
-      </a>
+    <td align="center" width="100" height="100" style="border: 1px solid #30363d;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" alt="VS Code">
+    </td>
+    <td align="center" width="100" height="100" style="border: 1px solid #30363d;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" alt="HTML5">
+    </td>
+    <td align="center" width="100" height="100" style="border: 1px solid #30363d;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" alt="CSS3">
+    </td>
+    <td align="center" width="100" height="100" style="border: 1px solid #30363d;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" alt="JavaScript">
+    </td>
+    <td align="center" width="100" height="100" style="border: 1px solid #30363d;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" alt="HTML Canvas">
     </td>
   </tr>
 </table>
+```
 
 
-<td>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="75" alt="HTML5">
-  </a>
-</td>
-<td>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="75" alt="CSS3">
-  </a>
-</td>
-<td>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="75" alt="JavaScript">
-  </a>
-</td>
-<td>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="75" alt="HTML Canvas">
-  </a>
-</td>
+
 
 
 
