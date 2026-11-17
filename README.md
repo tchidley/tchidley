@@ -56,6 +56,22 @@
 </table>
 
 
+<h3>Web Development</h3>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="65" alt="HTML5">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="65" alt="CSS3">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="65" alt="JavaScript">
+</p>
+
+<p>HTML5 Canvas API – Used for interactive graphics and digital rain animations.</p>
+
+
+
+
+
 
 
 ## 🚀 Featured Projects
