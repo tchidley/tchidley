@@ -38,7 +38,8 @@ More projects coming soon!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tchidley&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tchidley&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tchidley&layout=compact&theme=transparent)
+
 
 
 ## 🐍 My GitHub Contribution Snake
