@@ -35,9 +35,11 @@ More projects coming soon!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tchidley&layout=compact&theme=tokyonight)
 
+
 ## 🐍 My GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/tchidley/tchidley/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/tchidley/tchidley/output/github-snake.svg)
+
 
 ---
 
