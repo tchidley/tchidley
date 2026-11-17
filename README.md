@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img src="profile-banner.png" width="100%" />
+</p>
+
+
 <h1 align="center">Tristan Chidley</h1>
 
 <h3 align="center">Chemistry | Python | Artificial Intelligence</h3>
