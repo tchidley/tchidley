@@ -27,19 +27,19 @@
 
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="75" height="75" alt="Python" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+
   <a href="https://numpy.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="75" height="75" alt="NumPy" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="75" height="75" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="75" height="75" alt="Visual Studio Code" />
   </a>
