@@ -1,21 +1,46 @@
-## Tristan Chidley
 
-<!--
-**tchidley/tchidley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Tristan Chidley</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Chemistry | Python | Artificial Intelligence</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Exploring the intersection of science, programming,
+  artificial intelligence and creative technology.
+</p>
 
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Background in Chemistry and Materials Science
+- 🐍 Developing Python programming projects
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- ⚡ Creating animated visual effects using Python
+- 🔬 Interested in scientific computing and computational chemistry
+
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 🚀 Featured Projects
+
+More projects coming soon!
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tchidley&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tchidley&layout=compact&theme=tokyonight)
 
 ## 🐍 My GitHub Contribution Snake
 
-![Purple GitHub Snake](https://raw.githubusercontent.com/tchidley/tchidley/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/tchidley/tchidley/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
