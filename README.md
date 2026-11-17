@@ -56,17 +56,26 @@
 </table>
 
 
-<h3>Web Development</h3>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="65" alt="HTML5">
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="65" alt="CSS3">
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="65" alt="JavaScript">
-</p>
-
-<p>HTML5 Canvas API – Used for interactive graphics and digital rain animations.</p>
+<td>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="75" alt="HTML5">
+  </a>
+</td>
+<td>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="75" alt="CSS3">
+  </a>
+</td>
+<td>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="75" alt="JavaScript">
+  </a>
+</td>
+<td>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="75" alt="HTML Canvas">
+  </a>
+</td>
 
 
 
