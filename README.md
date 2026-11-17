@@ -42,6 +42,8 @@ More projects coming soon!
 
 
 
+
+
 ## 🐍 My GitHub Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/tchidley/tchidley/output/github-snake.svg)
