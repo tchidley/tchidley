@@ -27,23 +27,33 @@
 
 
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="75" height="75" alt="Python" />
-  </a>
 
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="75" height="75" alt="NumPy" />
-  </a>
+<h2 align="left">🛠️ Technologies & Tools</h2>
 
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="75" height="75" alt="GitHub" />
-  </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="75" height="75" alt="Visual Studio Code" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.python.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="75" alt="Python">
+      </a>
+    </td>
+    <td>
+      <a href="https://numpy.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="75" alt="NumPy">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="75" alt="GitHub">
+      </a>
+    </td>
+    <td>
+      <a href="https://code.visualstudio.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="75" alt="Visual Studio Code">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
