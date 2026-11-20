@@ -66,6 +66,13 @@ More projects coming soon!
 
 
 
+### Certifications & Achievements
+[![Introduction to Git - Microsoft Learn](Achievements - Introduction to Git - Tristan Chidley - Microsoft Learn.png)](https://learn.microsoft.com/en-us/users/tristanchidley-7694/credentials?tab=applied-skills-tab)
+
+
+
+
+
 ## 🐍 My GitHub Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/tchidley/tchidley/output/github-snake.svg)
