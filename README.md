@@ -27,9 +27,6 @@
 
 
 
-
-<h2 align="left">🛠️ Technologies & Tools</h2>
-
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55"></td>
