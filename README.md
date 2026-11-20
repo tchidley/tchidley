@@ -67,7 +67,7 @@ More projects coming soon!
 
 
 ### Certifications & Achievements
-[![Introduction to Git - Microsoft Learn](Achievements - Introduction to Git - Tristan Chidley - Microsoft Learn.png)](https://learn.microsoft.com/en-us/users/tristanchidley-7694/credentials?tab=applied-skills-tab)
+[![Introduction to Git - Microsoft Learn](Introduction_to_Git_Microsoft_Learn.png)](https://learn.microsoft.com/en-us/users/tristanchidley-7694/credentials?tab=applied-skills-tab)
 
 
 
