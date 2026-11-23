@@ -67,7 +67,7 @@ More projects coming soon!
 [![Introduction to Git - Microsoft Learn](Introduction_to_Git_Microsoft_Learn.png)](https://learn.microsoft.com/en-us/users/tristanchidley-7694/credentials?tab=applied-skills-tab)
 
 
-
+[![Introduction to Agents Certificate](Certificate_Mercor_Introduction_to_Agents.png)](https://work.mercor.com/verify/MRC-2026-2S3SH7)
 
 
 ## 🐍 My GitHub Contribution Snake
