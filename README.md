@@ -63,12 +63,23 @@ More projects coming soon!
 
 ## :trophy: Certifications & Achievements
 
-[![Introduction to Git - Microsoft Learn](Introduction_to_Git_Microsoft_Learn.png)](https://learn.microsoft.com/en-us/users/tristanchidley-7694/credentials?tab=applied-skills-tab)
+
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/tristanchidley-7694/credentials?tab=applied-skills-tab">
+    <img src="Introduction_to_Git_Microsoft_Learn.png" width="180">
+  </a>
+  <a href="https://work.mercor.com/verify/MRC-2026-2S3SH7">
+    <img src="Certificate_Mercor_Introduction_to_Agents.png" width="180">
+  </a>
+  <a href="https://work.mercor.com/verify/MRC-2026-KAJAMTJU">
+    <img src="Certificate_Mastering_Model_Mechanics_Mercor_2026.png" width="180">
+  </a>
+</p>
 
 
-[![Introduction to Agents Certificate](Certificate_Mercor_Introduction_to_Agents.png)](https://work.mercor.com/verify/MRC-2026-2S3SH7)
 
-[![Mastering Model Mechanics Certificate](Certificate_Mastering_Model_Mechanics_Mercor_2026.png)](https://work.mercor.com/verify/MRC-2026-KAJAMTJU)
+
+
 
 
 
