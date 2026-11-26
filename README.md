@@ -23,8 +23,8 @@
 - ⚡ Creating animated visual effects using Python
 - 🔬 Interested in scientific computing and computational chemistry
 
-## 🛠️ Technologies & Tools
 
+## 🛠️ Technologies & Tools
 
 
 <table>
@@ -60,18 +60,25 @@ More projects coming soon!
 
 ## :trophy: Certifications & Achievements
 
-
-<p align="center">
-  <a href="https://learn.microsoft.com/en-us/users/tristanchidley-7694/credentials?tab=applied-skills-tab"><img src="Introduction_to_Git_Microsoft_Learn.png" width="150"></a>&nbsp;&nbsp;
-  <a href="https://work.mercor.com/verify/MRC-2026-2S3SH7"><img src="Certificate_Mercor_Introduction_to_Agents.png" width="180"></a>&nbsp;&nbsp;
-  <a href="https://work.mercor.com/verify/MRC-2026-KAJAMTJU"><img src="Certificate_Mastering_Model_Mechanics_Mercor_2026.png" width="180"></a>
-</p>
-
-
-
-
-
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://learn.microsoft.com/en-us/users/tristanchidley-7694/credentials?tab=applied-skills-tab">
+        <img src="Introduction_to_Git_Microsoft_Learn.png" width="150">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://work.mercor.com/verify/MRC-2026-2S3SH7">
+        <img src="Certificate_Mercor_Introduction_to_Agents.png" width="180">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://work.mercor.com/verify/MRC-2026-KAJAMTJU">
+        <img src="Certificate_Mastering_Model_Mechanics_Mercor_2026.png" width="180">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
