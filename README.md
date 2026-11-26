@@ -64,8 +64,8 @@ More projects coming soon!
   <a href="https://learn.microsoft.com/en-us/users/tristanchidley-7694/credentials?tab=applied-skills-tab"><img src="Introduction_to_Git_Microsoft_Learn.png" width="150"></a>&nbsp;&nbsp;
   <a href="https://work.mercor.com/verify/MRC-2026-2S3SH7"><img src="Certificate_Mercor_Introduction_to_Agents.png" width="180"></a>&nbsp;&nbsp;
   <a href="https://work.mercor.com/verify/MRC-2026-KAJAMTJU"><img src="Certificate_Mastering_Model_Mechanics_Mercor_2026.png" width="180"></a>&nbsp;&nbsp;
-  <a href="Great_Learning_AI_with_Python.png"><img src="Certificate_Great_Learning_Artificial_Intelligence_with_Python_2026.png" width="150"></a>&nbsp;&nbsp;
-  <a href="https://verify.skilljar.com/c/93favid4y3kd"><img src="AI_Fluency_Framework_Foundations_Anthropic.png" width="180">
+  <a href="Great_Learning_AI_with_Python.png"><img src="Certificate_Great_Learning_Artificial_Intelligence_with_Python_2026.png" width="160"></a>&nbsp;&nbsp;
+  <a href="https://verify.skilljar.com/c/93favid4y3kd"><img src="AI_Fluency_Framework_Foundations_Anthropic.png" width="180"></a>&nbsp;&nbsp;  
   <a href="https://courses.analyticsvidhya.com/certificates/wnfcxei99i"><img src="Analytics_Vidhya_Introduction_to_Python_2026.png" width="180"></a>&nbsp;&nbsp;
 </a>
 </p>
