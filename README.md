@@ -71,7 +71,7 @@ More projects coming soon!
     <td><a href="https://learn.microsoft.com/en-us/users/tristanchidley-7694/credentials?tab=applied-skills-tab"><img src="Introduction_to_Git_Microsoft_Learn.png" width="100"></a></td>
     <td><a href="https://work.mercor.com/verify/MRC-2026-2S3SH7"><img src="Certificate_Mercor_Introduction_to_Agents.png" width="100"></a></td>
     <td><a href="https://work.mercor.com/verify/MRC-2026-KAJAMTJU"><img src="Certificate_Mastering_Model_Mechanics_Mercor_2026.png" width="100"></a></td>
-    <td><img src=" Certificate_Great_Learning_Artificial_Intelligence_with_Python_2026.png" width="100"></td>
+    <td><img src="Certificate_Great_Learning_Artificial_Intelligence_with_Python_2026.png" width="100"></td>
     <td><img src="AI_Fluency_Framework_Foundations_Anthropic.png" width="100"></td>
     <td><img src="Analytics_Vidhya_Introduction_to_Python_2026.png" width="100"></td>
   </tr>
