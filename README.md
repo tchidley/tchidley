@@ -60,25 +60,14 @@ More projects coming soon!
 
 ## :trophy: Certifications & Achievements
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://learn.microsoft.com/en-us/users/tristanchidley-7694/credentials?tab=applied-skills-tab">
-        <img src="Introduction_to_Git_Microsoft_Learn.png" width="150">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://work.mercor.com/verify/MRC-2026-2S3SH7">
-        <img src="Certificate_Mercor_Introduction_to_Agents.png" width="180">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://work.mercor.com/verify/MRC-2026-KAJAMTJU">
-        <img src="Certificate_Mastering_Model_Mechanics_Mercor_2026.png" width="180">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/tristanchidley-7694/credentials?tab=applied-skills-tab"><img src="Introduction_to_Git_Microsoft_Learn.png" width="150"></a>&nbsp;&nbsp;
+  <a href="https://work.mercor.com/verify/MRC-2026-2S3SH7"><img src="Certificate_Mercor_Introduction_to_Agents.png" width="180"></a>&nbsp;&nbsp;
+  <a href="https://work.mercor.com/verify/MRC-2026-KAJAMTJU"><img src="Certificate_Mastering_Model_Mechanics_Mercor_2026.png" width="180"></a>&nbsp;&nbsp;
+  <a href="Great_Learning_AI_with_Python.png"><img src="Great_Learning_AI_with_Python.png" width="180"></a>&nbsp;&nbsp;
+  <a href="Anthropic_AI_Fluency.png"><img src="Anthropic_AI_Fluency.png" width="180"></a>
+</p>
+
 
 
 
