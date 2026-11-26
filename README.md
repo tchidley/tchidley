@@ -51,9 +51,9 @@ More projects coming soon!
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tchidley&theme=github_dark" width="350" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tchidley&theme=github_dark" width="250" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tchidley&theme=github_dark" width="350" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tchidley&theme=github_dark" width="250" />
 </p>
 
 
