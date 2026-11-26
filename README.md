@@ -66,7 +66,7 @@ More projects coming soon!
   <a href="https://work.mercor.com/verify/MRC-2026-KAJAMTJU"><img src="Certificate_Mastering_Model_Mechanics_Mercor_2026.png" width="180"></a>&nbsp;&nbsp;
   <a href="Great_Learning_AI_with_Python.png"><img src="Certificate_Great_Learning_Artificial_Intelligence_with_Python_2026.png" width="180"></a>&nbsp;&nbsp;
   <a href="https://verify.skilljar.com/c/93favid4y3kd"><img src="AI_Fluency_Framework_Foundations_Anthropic.png" width="180">
-  <a href="https://courses.analyticsvidhya.com/certificates/wnfcxei99i"><img src="Certificate_Analytics_Vidhya_Introduction_to_Python_2026.pdf" width="180"></a>&nbsp;&nbsp;
+  <a href="https://courses.analyticsvidhya.com/certificates/wnfcxei99i"><img src="Analytics_Vidhya_Introduction_to_Python_2026.png" width="180"></a>&nbsp;&nbsp;
 </a>
 </p>
 
